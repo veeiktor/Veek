@@ -1,3 +1,3 @@
 # New
 
-Something is cooking
+Something is cooking!
